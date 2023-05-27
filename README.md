@@ -1,1 +1,3 @@
 # Movie-Recommender-System
+
+I have developed a web interface for a content-based movie recommendation system. This system recommends movies based on the content of a given movie, such as the director, actors, genre, or if it's part of a series. It mimics the recommendation systems used by popular OTT platforms like Amazon Prime and Netflix. Users can enter a movie title in the search bar, and the system retrieves similar movies based on shared content attributes. It provides personalized recommendations without relying on explicit user ratings, enhancing the user experience by suggesting movies aligned with their interests.
